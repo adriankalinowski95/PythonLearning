@@ -1,6 +1,8 @@
+import ex_364
 
 def main():
-    print("Hello, World!")
+    ex_364.ex_10()
+    
     # Add your code here
     
 if __name__ == "__main__":
